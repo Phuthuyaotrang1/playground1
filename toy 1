@@ -1,3 +1,11 @@
-hello friends
-var score = 0
-var lives = 3
+var score = 0;
+var lives = 3;
+
+score = score + 1;
+lives = lives - 1; 
+
+var a = 2;
+var b = 2;
+
+a = a + b;
+b = a + b; 
